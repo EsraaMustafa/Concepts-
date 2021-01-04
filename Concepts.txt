@@ -1,0 +1,18 @@
+- Calculator Task
+
+Team Members :
+إسراء مصطفي محمد مصطفي 20160065  
+أميرة خالد الشوري   20160087 
+عبد الرحمن خالد حسني  20150302
+عمر أيمن السيد محمد 20160256
+عمر عبد العزيز أحمد علي 20160263
+
+
+Team members:
+Esraa Mustafa Muhammed Mustafa 20160065 
+Amira Khaled El-Shora  20160087 
+Abdelrhman Khaled Hosney  20150302
+Omar Ayman Elsayed Muhamed 20160256
+Omar Abdelaziz Ahmed Ali 20160263
+
+Row Number  ---> 8 
